@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning , python , SQL, Power BI and Data Science**
 
-- 👯 I’m looking to collaborate on **Open-source projects , Web development and Machine Learning initiatives Exciting tech communities**
+- 👯 I’m looking to collaborate on **Open-source projects , Web development and Machine Learning initiatives** exciting tech communities
 
 - 🤝 I’m looking for help with **Learning new technologies efficiently , Contributing to large-scale projects**
 
