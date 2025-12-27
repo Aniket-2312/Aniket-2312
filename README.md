@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aniketvpawar2003@gmail.com, Linkedin Profile[www.linkedin.com/in/aniket-pawar-a1688331a]**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGTAeDNbIE/_FTsoEDj9hia9wvtWOv5og/edit?utm_content=DAGTAeDNbIE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGTAeDNbIE/_FTsoEDj9hia9wvtWOv5og/edit?utm_content=DAGTAeDNbIE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences https://drive.google.com/file/d/1SfXonx9pP4GFxzqyFRnF6fUB6gR0qxZ-/view?usp=sharing
 
 - ⚡ Fun fact **My first "Hello, World!" program took me a while because I forgot a semicolon 😅 , I’m a coffee addict specially at night.**
 
